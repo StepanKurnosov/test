@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 // program for factorial calculating
+
 int main(void) {
 	long res = 1;
 	int end;
